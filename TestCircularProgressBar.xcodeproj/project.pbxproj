@@ -13,6 +13,7 @@
 		265D6A26266F1573003AD450 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265D6A24266F1573003AD450 /* Main.storyboard */; };
 		265D6A28266F1574003AD450 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 265D6A27266F1574003AD450 /* Assets.xcassets */; };
 		265D6A2B266F1574003AD450 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265D6A29266F1574003AD450 /* LaunchScreen.storyboard */; };
+		265D6A37266F25FA003AD450 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265D6A36266F25FA003AD450 /* CircularProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		265D6A27266F1574003AD450 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		265D6A2A266F1574003AD450 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		265D6A2C266F1574003AD450 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		265D6A36266F25FA003AD450 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				265D6A1E266F1573003AD450 /* AppDelegate.swift */,
 				265D6A20266F1573003AD450 /* SceneDelegate.swift */,
 				265D6A22266F1573003AD450 /* ViewController.swift */,
+				265D6A36266F25FA003AD450 /* CircularProgressView.swift */,
 				265D6A24266F1573003AD450 /* Main.storyboard */,
 				265D6A27266F1574003AD450 /* Assets.xcassets */,
 				265D6A29266F1574003AD450 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				265D6A23266F1573003AD450 /* ViewController.swift in Sources */,
 				265D6A1F266F1573003AD450 /* AppDelegate.swift in Sources */,
+				265D6A37266F25FA003AD450 /* CircularProgressView.swift in Sources */,
 				265D6A21266F1573003AD450 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
